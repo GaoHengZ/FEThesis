@@ -22,6 +22,10 @@
 
 > 无图版 PDF 戳这里：[我是排版精美的 PDF](./Thesis-without-images.pdf)
 
+> 答辩 PPT 戳这里：[我是排版还行的 PPT](./Thesis-report-keynote.ppt)
+
+> 答辩逐字稿：[我是避免忘词的逐字稿](./Thesis-report-transcript.docx)
+
 ## 毕业论文（设计）的构成
 
 根据我院各专业的特点，毕业论文（设计）文体结构可分为三类：
